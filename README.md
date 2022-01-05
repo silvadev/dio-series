@@ -12,4 +12,4 @@ Este aplicativo console armazena dados de séries em memória. E foi construído
 
 ## Modificações
 
-- O comando AtualizarSerie() permite atualizar somente os campos preenchidos. Para os demais campos é mantido a versão original da série cadastrada.
+- O comando [`AtualizarSerie()`](https://github.com/silvadev/dio-series/blob/cc0071628189fe0b5c5251f5e3db51754b732429/Program.cs#L111) permite atualizar somente os campos preenchidos. Para os demais campos é mantido a versão original da série cadastrada.
