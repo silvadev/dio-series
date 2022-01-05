@@ -1,0 +1,15 @@
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/silva/Devel/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/silva/Devel/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
